@@ -1,40 +1,28 @@
-# Bright_Coffee_Shop_Sales_Analysis
-Overview
+☕ Bright Coffee Shop Sales Analysis
 
-This project contains an analysis of Bright Coffee Shop using a dataset of daily transactional sales. Bright Coffee Shop's newly appointed CEO wants to grow revenue and improve product performance, and this project extracts actionable insights from historical sales data to support that decision-making.
+A data story built for Bright Coffee Shop's new CEO — where the revenue comes from, when it happens, and what to do about it.
 
-Objective
+The Ask
 
-Using SQL, data transformation, and data visualization, this project answers:
+Bright Coffee Shop has a new CEO with one mandate: grow revenue. But "grow revenue" isn't a strategy — it's a question waiting for data to answer it. Which products carry the business? When do customers actually show up? Are all locations pulling their weight? This project turns a year of raw, messy transactional data into a clear operating picture the CEO can act on.
 
-Which products generate the most revenue
-What time of day the store performs best
-Sales trends across products and time intervals
-Recommendations for improving sales performance
+The Headline
 
-Approach Planning — A data flow & architecture diagram (source → ETL → storage → analysis → presentation) was designed in Miro, along with a project Gantt chart in Excel outlining each phase of the project.
+June was Bright Coffee Shop's strongest month on record, generating R166,485.88 in revenue — more than double February's R76,145.19. That's a 119% swing between the best and worst month analysed so far, and it's the kind of gap that should not exist by accident. Understanding why June outperformed is the single highest-leverage question this analysis raises for the CEO.
 
-Data Processing (Databricks) — The raw CSV was loaded into Databricks, where the following transformations were applied using SQL:
+Month	Revenue
+June	R166,485.88
+April	R118,941.08
+March	R98,834.68
+January	R81,677.74
+February	R76,145.19
 
-Created transaction_time_bucket, grouping transactions into 30-minute 
-
-Cast unit_price from comma-decimal text (e.g. '3,1') to a proper numeric type (3.1)
-
-Computed total_amount = unit_price * transaction_qty
-
-Grouped and aggregated data by product type, category, and time bucket
-
-Data Analysis (Excel) — The processed dataset was exported and analysed using pivot tables and charts to surface:
-
-Total revenue per product type
-
-Peak time intervals for sales
-
-Quantity of items sold by product category
-
-Best-selling product types/details
-
-Presentation — Key insights, methodology, and recommendations were compiled into a PowerPoint presentation for the CEO.
+Tools Used
+Category	Tool
+Project Planning	Miro, Excel (Gantt chart)
+Data Processing	Databricks (SQL)
+Data Analysis	Microsoft Excel (Pivot Tables & Charts)
+Presentation	Canva
 
 Recommendations
 
