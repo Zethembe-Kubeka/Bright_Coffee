@@ -34,10 +34,4 @@ Promote underperforming products
 
 Consider loyalty packages for peak time customers
 
-Next Steps
 
-Automate daily sales reporting
-
-Track sales performance across multiple locations
-
-Implement loyalty programs based on peak customer time slots
