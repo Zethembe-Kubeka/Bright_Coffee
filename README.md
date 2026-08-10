@@ -7,10 +7,10 @@ Key findings
 June is the strongest revenue month, while January and February are the weakest.
 Daily revenue is fairly consistent, with no major dependence on a particular day.
 Revenue is evenly split among the three stores, with each contributing roughly one-third of the total.
-Astoria performs relatively better at night, creating a possible evening sales opportunity.
+Astoria performs better at night, suggesting a potential evening sales opportunity.
 Coffee is the biggest revenue category, followed by Tea.
 Revenue is concentrated among a few high-performing products, particularly Barista Espresso, Brewed Chai Tea, Gourmet Beans, and House Blend.
-Review weaker products before deciding whether to promote, reposition, or remove them.
+ Review weaker products before deciding whether to promote, reposition, or remove them.
 
 Main recommendations
 
