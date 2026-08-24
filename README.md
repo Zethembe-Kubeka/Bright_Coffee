@@ -222,7 +222,7 @@ Bright Coffee could test:
 
 # 🎯 Business Impact
 
-This project demonstrates how data can be used to move from **raw transactions to actionable business decisions**.
+This project shows how data can move from **raw transactions to actionable business decisions**.
 
 The analysis provides insights that can help Bright Coffee:
 
@@ -242,38 +242,20 @@ The analysis provides insights that can help Bright Coffee:
 
 ```
 
----
+````
+Skills demonstrated in this project:
 
-# 🚀 What This Project Demonstrates
+Data Cleaning • Data Analysis • Databricks • Excel • Pivot Tables • Business Intelligence • Data Visualisation • Miro • Canva • GitHub • Business Storytelling • Strategic Recommendations
+````
 
-This project showcases the ability to:
-
-* Translate business problems into analytical questions
-  
-* Clean and transform data
-  
-* Analyse sales performance
-  
-* Create meaningful pivot tables
-  
-* Identify business trends and patterns
-  
-* Develop actionable recommendations
-
----
-
-**Skills demonstrated in this project:**
-
-`Data Cleaning` • `Data Analysis` • `Databricks` • `Excel` • `Pivot Tables` • `Business Intelligence` • `Data Visualisation` • `Miro` • `Canva` • `GitHub` • `Business Storytelling` • `Strategic Recommendations`
-
----
-
-## ⭐ Final Takeaway
+````
+⭐ Final Takeaway
 
 The most important outcome of this project is not the dashboard or pivot table. The value comes from turning the analysis into clear actions.
 
 Bright Coffee has a strong foundation for growth. The data shows opportunities to build on its successful morning business, increase average customer spend through bundling, grow sales during slower periods, focus on high-performing products, and strengthen customer loyalty.
 
-This project demonstrates how a data analyst can connect **data, business performance, and decision-making** to deliver insights that executives can use to drive measurable results.
+This project shows how a data analyst connects data, business performance, and decision-making to deliver insights executives can use to drive measurable results.
+`````
 
 
