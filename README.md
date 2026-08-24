@@ -240,28 +240,6 @@ The analysis provides insights that can help Bright Coffee:
   
 * Make more informed, data-driven decisions
 
----
-
-# 📁 Project Workflow
-
-```text
-Raw Coffee Sales Data
-        ↓
-Data Exploration
-        ↓
-Data Cleaning & Transformation
-        ↓
-Databricks Analysis
-        ↓
-Excel Pivot Tables
-        ↓
-Business Insights
-        ↓
-Data Visualisation
-        ↓
-Strategic Recommendations
-        ↓
-Business Presentation
 ```
 
 ---
