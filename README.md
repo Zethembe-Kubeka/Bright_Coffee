@@ -256,6 +256,6 @@ The most important outcome of this project is not the dashboard or pivot table. 
 Bright Coffee has a strong foundation for growth. The data shows opportunities to build on its successful morning business, increase average customer spend through bundling, grow sales during slower periods, focus on high-performing products, and strengthen customer loyalty.
 
 This project shows how a data analyst connects data, business performance, and decision-making to deliver insights executives can use to drive measurable results.
-----
+
 
 
