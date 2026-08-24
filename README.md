@@ -241,12 +241,9 @@ The analysis provides insights that can help Bright Coffee:
 * Make more informed, data-driven decisions
 ------
 
-----
 Skills demonstrated in this project:
 
 Data Cleaning • Data Analysis • Databricks • Excel • Pivot Tables • Business Intelligence • Data Visualisation • Miro • Canva • GitHub • Business Storytelling • Strategic Recommendations
-
-----
 
 ----
 ⭐ Final Takeaway
